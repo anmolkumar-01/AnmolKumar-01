@@ -7,7 +7,7 @@ I’m a passionate full-stack developer with a focus on building products.
 ### 🚀 About Me
 I love building products and functionalities, focusing on real-world solutions. I’m continuously learning and growing my skills in backend development and full-stack applications.
 
-🔧 Technologies & Tools I working with:
+🔧 Technologies & Tools I'm working with:
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - **C++** & **JavaScript**
 - **RESTful APIs**
