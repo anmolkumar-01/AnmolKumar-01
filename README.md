@@ -2,14 +2,14 @@
   
 ## Hi there, I'm Anmol Kumar 👋
 
-I’m a passionate full-stack developer with a focus on **MERN Stack** (MongoDB, Express, React.js, Node.js).
+I’m a passionate full-stack developer with a focus on building products.
 
 ---
 
 ### 🚀 About Me
 I love building products and functionalities, focusing on real-world solutions. I’m continuously learning and growing my skills in backend development and full-stack applications.
 
-🔧 Technologies & Tools I work with:
+🔧 Technologies & Tools I working with:
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
 - **C++** & **JavaScript**
 - **RESTful APIs**
