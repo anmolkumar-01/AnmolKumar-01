@@ -1,5 +1,3 @@
-<p style="font-size: 8px;">
-  
 ## Hi there, I'm Anmol Kumar 👋
 
 I’m a passionate full-stack developer with a focus on building products.
@@ -34,7 +32,4 @@ I love building products and functionalities, focusing on real-world solutions. 
 - LinkedIn: [Anmol Kumar](https://www.linkedin.com/in/anmolkumar01)
 - Email: anmolkumar.cod01@gmail.com
 
-Feel free to connect, collaborate, or ask for help!
-
-**Thanks for visiting!** 😄
-</p>
+Feel free to connect, collaborate, or ask for help !😊
