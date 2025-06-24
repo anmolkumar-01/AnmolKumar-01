@@ -1,4 +1,4 @@
-<p style="font-size: 12px; font-family: 'Courier New', monospace; color: black;">
+<p style="font-size: 8px;">
   
 ## Hi there, I'm Anmol Kumar 👋
 
