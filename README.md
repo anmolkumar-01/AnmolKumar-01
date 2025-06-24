@@ -1,16 +1,40 @@
-## Hi there 👋
+<p style="font-size: 12px; font-family: 'Courier New', monospace; color: black;">
+  
+## Hi there, I'm Anmol Kumar 👋
 
-<!--
-**AnmolKumar-01/AnmolKumar-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate full-stack developer with a focus on **MERN Stack** (MongoDB, Express, React.js, Node.js).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I love building products and functionalities, focusing on real-world solutions. I’m continuously learning and growing my skills in backend development and full-stack applications.
+
+🔧 Technologies & Tools I work with:
+- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- **C++** & **JavaScript**
+- **RESTful APIs**
+- **Mongoose Atlas** for MongoDB management
+
+---
+
+### 🌱 My Current Learning Focus
+- Full-stack development with MERN
+- Backend optimizations and scalable API solutions
+- Exploring new tools and frameworks in the web development ecosystem
+
+---
+
+### 📈 GitHub Stats
+
+![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmolKumar-01&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+---
+
+### 📫 How to Reach Me
+- LinkedIn: [Anmol Kumar](https://www.linkedin.com/in/anmolkumar01)
+- Email: anmolkumar.cod01@gmail.com
+
+Feel free to connect, collaborate, or ask for help!
+
+**Thanks for visiting!** 😄
+</p>
