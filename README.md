@@ -1,6 +1,6 @@
 ## Hi there, I'm Anmol Kumar 👋
 
-I’m a passionate full-stack developer with a focus on building products.
+Final year Computer Science undergraduate with a 9.01 CGPA, strong proficiency in full-stack web development, and a passion for building impactful, scalable applications. Experienced in crafting end-to-end solutions using the MERN stack, with hands-on experience in tools and technologies like React.js, Node.js, MongoDB, Socket.IO, and JWT.
 
 ---
 
